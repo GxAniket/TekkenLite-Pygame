@@ -1,17 +1,3 @@
-# tekken_like.py
-# A tiny 2D "Tekken-like" fighting prototype using pygame (no external assets).
-# Run with:  pip install pygame
-#            python tekken_like.py
-#
-# Features:
-# - 2 Players (local): movement, jump, crouch, block, punch, kick
-# - Health bars, round timer, best-of-3 rounds
-# - Hitboxes & hurtboxes (rectangles), pushback, chip damage on block
-# - Pause (ESC), restart (R), quit (Q)
-#
-# DISCLAIMER: This is only a lightweight learning prototype, not a full Tekken clone.
-# Feel free to extend moves, add sprites, sound, combos, and AI.
-
 import sys
 import math
 import pygame
